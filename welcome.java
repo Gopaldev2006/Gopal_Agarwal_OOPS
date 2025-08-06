@@ -1,4 +1,4 @@
-public class main {
+public class welcome {
     public static void main(String[] args) {
         System.out.println("Welcome to Gopal's OOPS");
     }
